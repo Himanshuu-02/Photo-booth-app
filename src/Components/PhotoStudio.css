@@ -23,10 +23,16 @@
   padding: 0;
   height: 100vh;
   position: relative;
-  background-image: url('/images/soft.png'); /* relative to /public */
+  /* background-image: url('/images/soft.png'); 
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
+   background: linear-gradient(
+    135deg,
+    #0f2027,
+    #203a43,
+    #2c5364
+  );
 }
 
 .studio-container {
