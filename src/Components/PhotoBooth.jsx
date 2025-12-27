@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Webcam from "react-webcam";
-//import PhotoStudio from "./PhotoStudio";
+import PhotoStudio from "./PhotoStudio";
 import "./PhotoBooth.css";
 
 const PhotoBooth = () => {
